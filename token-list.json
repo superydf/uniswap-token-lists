@@ -1,0 +1,25 @@
+{
+  "name": "Galalink",
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x72112EE2f2Cfb1F8494e78E0C3166a77Fb6A2d24/logo.png",
+  "keywords": [
+      "Galalink",
+      "GD",
+      "GLK"
+    ],
+    "timestamp": "2020-09-022T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x72112EE2f2Cfb1F8494e78E0C3166a77Fb6A2d24",
+      "name": "Galaxy Diamond",
+      "symbol": "GD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x72112EE2f2Cfb1F8494e78E0C3166a77Fb6A2d24/logo.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
